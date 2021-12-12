@@ -1,0 +1,10 @@
+.env
+node_modules/
+
+__pycache__/
+*.py[cod]
+*$py.class
+alura-venv
+venv.sh
+README.md
+airflow/
